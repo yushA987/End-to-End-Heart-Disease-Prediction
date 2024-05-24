@@ -50,7 +50,7 @@ The dataset contains the following key features:
 ### Exploratory Data Analysis (EDA)
 
 EDA includes descriptive statistics, visualizations like histograms and box plots, and correlation analysis to identify relationships between features and the target variable. 
-**Correlation Coefficients of the features of the dataset**: ![Screenshot 2024-05-24 121544](https://github.com/yushA987/End-to-End-Heart-Disease-Prediction/assets/114309983/dc72a546-f3b0-4a96-ba2a-85457d35f94b)
+**Correlation Coefficients of the features of the dataset**: ![Screenshot 2024-05-24 123910](https://github.com/yushA987/End-to-End-Heart-Disease-Prediction/assets/114309983/e764bc69-cfd1-43f8-83e9-49a69d2f9ae7)
 
 ## Modeling
 
@@ -81,5 +81,5 @@ The final model achieved an accuracy of 85.24%. Below are some key performance m
 ### Visualizations
 
 - **ROC Curve**: ![Screenshot 2024-05-24 121638](https://github.com/yushA987/End-to-End-Heart-Disease-Prediction/assets/114309983/e7844906-ab05-40ef-bec5-24aa57ceea6d)
-- **Feature Importance**: ![Screenshot 2024-05-24 121828](https://github.com/yushA987/End-to-End-Heart-Disease-Prediction/assets/114309983/ef08459e-b20c-4d02-bbb7-6edaf77b0461)
-- **Scores**: ![Screenshot 2024-05-24 121735](https://github.com/yushA987/End-to-End-Heart-Disease-Prediction/assets/114309983/b7ee3072-de68-44b9-8318-cb2c693faf2e)
+- **Feature Importance**: ![Screenshot 2024-05-24 121735](https://github.com/yushA987/End-to-End-Heart-Disease-Prediction/assets/114309983/b7ee3072-de68-44b9-8318-cb2c693faf2e)
+- **Scores**: ![Screenshot 2024-05-24 121828](https://github.com/yushA987/End-to-End-Heart-Disease-Prediction/assets/114309983/ef08459e-b20c-4d02-bbb7-6edaf77b0461)    
